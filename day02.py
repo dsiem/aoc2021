@@ -1,8 +1,7 @@
 with open('day02.txt', encoding='utf8') as file:
     horiz = depth = aim = 0
 
-    for line in file.readlines():
-        cmd, n = line.split()
+    for cmd, n in map(lambda l: l.split(), file):
         n = int(n)
         if cmd == 'up':
             aim -= n
