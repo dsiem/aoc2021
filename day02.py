@@ -1,6 +1,6 @@
-with open('day02.txt', encoding='utf8') as file:
-    horiz = depth = aim = 0
+horiz = depth = aim = 0
 
+with open('day02.txt', encoding='utf8') as file:
     for cmd, n in map(lambda l: l.split(), file):
         n = int(n)
         if cmd == 'up':
@@ -11,5 +11,5 @@ with open('day02.txt', encoding='utf8') as file:
             horiz += n
             depth += aim * n
 
-    print(horiz * aim)
-    print(horiz * depth)
+print(horiz * aim)
+print(horiz * depth)
