@@ -1,10 +1,8 @@
-fish = [0] * 9
 with open('day06.txt', encoding='utf8') as file:
-    for i in file.readline().split(','):
-        fish[int(i)] += 1
+    fish = list(map(file.read().count, '0123456789'))
 
-def grow(start, end):
-    for day in range(start, end):
+def grow(start, stop):
+    for day in range(start, stop):
         fish[(day + 7) % 9] += fish[day % 9]
     return sum(fish)
 
