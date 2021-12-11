@@ -14,3 +14,4 @@ This repository contains my solutions for the [Advent of Code 2021](https://adve
 |[Day 8: Seven Segment Search](https://adventofcode.com/2021/day/8)|&#11088;|&#11088;|
 |[Day 9: Smoke Basin](https://adventofcode.com/2021/day/9)|&#11088;|&#11088;|
 |[Day 10: Syntax Scoring](https://adventofcode.com/2021/day/10)|&#11088;|&#11088;|
+|[Day 11: Dumbo Octopus](https://adventofcode.com/2021/day/11)|&#11088;|&#11088;|
