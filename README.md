@@ -13,3 +13,4 @@ This repository contains my solutions for the [Advent of Code 2021](https://adve
 |[Day 7: The Treachery of Whales](https://adventofcode.com/2021/day/7)|&#11088;|&#11088;|
 |[Day 8: Seven Segment Search](https://adventofcode.com/2021/day/8)|&#11088;|&#11088;|
 |[Day 9: Smoke Basin](https://adventofcode.com/2021/day/9)|&#11088;|&#11088;|
+|[Day 10: Syntax Scoring](https://adventofcode.com/2021/day/10)|&#11088;|&#11088;|
