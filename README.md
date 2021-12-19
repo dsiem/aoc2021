@@ -19,3 +19,4 @@ This repository contains my solutions for the [Advent of Code 2021](https://adve
 |[Day 13: Transparent Origami](https://adventofcode.com/2021/day/13)|&#11088;|&#11088;|
 |[Day 14: Extended Polymerization](https://adventofcode.com/2021/day/14)|&#11088;|&#11088;|
 |[Day 15: Chiton](https://adventofcode.com/2021/day/15)|&#11088;|&#11088;|
+|[Day 18: Snailfish](https://adventofcode.com/2021/day/18)|&#11088;|&#11088;|
